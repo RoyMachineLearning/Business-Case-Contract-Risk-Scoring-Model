@@ -22,7 +22,7 @@ We are interested to identify which contracts among thousands of contracta have 
 
 5) Marketing Development Funds: Market development funds or MDF are used in an indirect sales channel where funds are made available by a manufacturer or brand to help affiliates, channel partners, resellers, VARs, or distributors to sell its products and create local awareness about the national brand. Co-op Funds is a synonym for Market Development Funds.
 
-6) Committed Funds: Value of the funds TELUS has committed to pay regardless how much service Company consumes.
+6) Committed Funds: Value of the funds Company has committed to pay regardless how much service Company consumes.
 
 7) Committed volume: Such as number of hours or quantity of goods that Company has agreed to consume.
 
