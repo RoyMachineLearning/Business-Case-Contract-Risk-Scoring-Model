@@ -1,4 +1,4 @@
-# Business Case - Contract Risk Scoring Model
+# Telus Business Case - Contract Risk Scoring Model
 
 Objective:
 
